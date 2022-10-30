@@ -29,6 +29,12 @@
     "desc": {
       "type": "text"
     },
+    "brand": {
+      "type": "string"
+    },
+    "industry": {
+      "type": "string"
+    },
     "slug": {
       "type": "string"
     }
